@@ -10,8 +10,9 @@
 
 # User Story: As a user, I want to delete a note so that I can remove unwanted notes.
 # Acceptance Criteria: User can modify note content, Changes are saved successfully
-# Story Points: 2 
+# Story Points: 2 - Aldrick
 
 # User Story: As a user, I want the system to validate note input so that empty or invalid notes are not saved.
 # Acceptance Criteria: Empty notes cannot be saved, Error message is displayed
-# Story Points: 2 
+# Story Points: 2 - Aldrick
+
